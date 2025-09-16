@@ -1,6 +1,10 @@
-Install instructions:
+Install instructions: Take this url and install it and not the repo url for here I have simply made a grievous error
 
-Take the folder and manually place into your extensions folder like `extensions/__WI_parentFolders` Using an install link wont work (oops)
+```
+https://github.com/Llynkurin/ST-Extension_WI_Groups.git
+```
+
+
 
 ### WI_parentFolders
 Groups together entries with a shared prefix

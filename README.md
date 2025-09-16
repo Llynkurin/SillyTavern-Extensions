@@ -1,5 +1,6 @@
 Install instructions:
-Take the folder and manually place like extensions/__WI_parentFolders
+
+Take the folder and manually place into your extensions folder like `extensions/__WI_parentFolders` Using an install link wont work (oops)
 
 ### WI_parentFolders
 Groups together entries with a shared prefix
